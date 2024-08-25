@@ -61,8 +61,6 @@ This README template provides a comprehensive overview of my e-commerce project,
 
 Watch the demo video to see the project in action:
 
-[![Watch the video]()]
-
-
+https://github.com/user-attachments/assets/a492edf8-e68b-4e9c-95ea-e867b2fb427a
 
 
