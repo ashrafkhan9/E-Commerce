@@ -61,3 +61,16 @@
   height: 3px;
   background: #7c7c7c;
 }
+
+@media (max-width: 800px) {
+  .footer {
+    max-width: 100%;
+    margin: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer-logo p {
+    font-size: 16px;
+  }
+}
